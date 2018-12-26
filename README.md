@@ -28,16 +28,16 @@ Usage
 =====
 
 ```
-# English
+// English
 var list_en = require('badwords-list'),
 	array_en = list_en.array,
 	object_en = list_en.object,
 	regex_en = list_en.regex;
-# Indonesian
+// Indonesian
 var list_id = require('badwords-list/id'),
 	array_id = list_id.array,
 	patterns_id = list_id.patterns;
-# Russian
+// Russian
 var list_ru = require('badwords-list/ru'),
 	array_ru = list_ru.array;
 ```
